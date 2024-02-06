@@ -1,5 +1,7 @@
 ## Project Name: Logger
 
+[Check Deployment Here](https://frontend-logger-fawn.vercel.app/login)
+
 **A MERN stack task management application with secure authentication and authorization.**
 
 ### Features
@@ -42,4 +44,5 @@
 
 ### Demo Link
 
-https://frontend-logger-fawn.vercel.app/login
+
+[Google Drive](https://drive.google.com/file/d/10Ky7UGRbZpMhYYxgCeMQyomUsQ4xd27u/view?usp=sharing)
